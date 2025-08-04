@@ -37,7 +37,7 @@ A modern, responsive website for Vignan Foods, a premium dining restaurant featu
 7. **Contact Info**: With interactive Google Map
 
 ## 🚀 Live Demo
-  [Demo](https://vignan-foods-landing-page.vercel.app/)
+  [Click here for Live Demo](https://vignan-foods-landing-page.vercel.app/)
 
 ## 🚀 Installation & Usage
 
